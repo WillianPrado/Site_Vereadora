@@ -1,0 +1,117 @@
+/*estilo.css*/
+#index1{
+	padding: 0;
+	
+	text-align: center;
+}
+#nome{
+	padding: 5px;
+	border: 0;
+	text-align: center;
+}
+#propostas{
+	padding-top: 0;
+	background-color: #F8F8FF;
+	border: 10px;
+	border-color: black: 
+	max-height: 10px;
+	text-align: left;
+    
+}
+#propostas h1{
+
+	text-align: left;
+}
+
+
+#propostas div {
+   border-top: 5px solid black;
+  padding-top: 10px;
+  border-top: 10px: 
+  max-height:20px;
+}
+#curiosidade {
+	padding-bottom: 0;
+	background-color: #D3D3D3;
+}
+#curiosidade div {
+ border-top: 5px solid black;
+}
+/*todas as imagens dentro de #fotos*/
+
+#fotos img{
+	height: 200px;
+	width: auto;
+
+	
+}
+#fotos{
+	background-color: #E0FFFF;
+}
+
+
+
+#contato{
+	background-color: #34495e;
+	color:#fff;
+}
+
+.container-fluid {
+	padding-top:20px;
+	padding-bottom: 40px;
+}
+
+.jumbotron {
+	margin-bottom: 0;
+}
+
+.maxima {
+	max-height: 200px;
+	white-space: normal; 
+overflow: hidden;
+text-overflow: ellipsis; 
+
+width: 90%;
+ 
+
+
+}
+
+}
+#propostas  button {
+margin-top: 12px;
+margin-right: 20px;
+border: 0;
+width: 100px;
+height: 42px;
+cursor: pointer;
+border-radius: 4px;
+color: #FFFFFF;
+float: right;
+}
+
+.container-footer {
+border-top: 1px solid #D7D7D7;
+height: 50px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.container-footer button {
+margin-top: -26px;
+border: 0;
+height: 100px;
+min-width: 36px;
+cursor: pointer;
+border-radius: 4px;
+color: #FFFFFF;
+float: right;
+}
+
+.container-footer .txt{
+white-space: normal; 
+overflow: hidden;
+text-overflow: ellipsis; 
+
+width: 90%;
+}
+
